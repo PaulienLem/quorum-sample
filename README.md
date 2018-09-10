@@ -1,4 +1,4 @@
-#Quorum Sample Setup<
+#Quorum Sample Setup
 
 ##Prerequisites
 1. Install virtualbox
