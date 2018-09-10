@@ -57,7 +57,11 @@
 			<artifactId>spring-data-commons-core</artifactId>
 			<version>1.0.0.RELEASE</version>
 		</dependency>
-
+		<dependency>
+			<groupId>org.web3j</groupId>
+			<artifactId>quorum</artifactId>
+			<version>0.9.0</version>
+		</dependency>
 
 	</dependencies>
 

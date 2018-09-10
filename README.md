@@ -24,3 +24,5 @@ The sample network consists of seven nodes, of which the RPC ports are displayed
 2. ```truffle console --network nodefour``` --> Acting as a different node
 3. ```SimpleStorage.deployed().then(function(instance) { return instance.get(); })``` --> Calling a method on a deployed contract
 
+## Ref
+https://ethereum.stackexchange.com/questions/23459/deploy-contract-in-web3j-quorum-problem
